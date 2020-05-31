@@ -10,4 +10,4 @@ ACL https://acl2020.org/
 * Tutorials : July 5
 * Main Conference : July 6 – July 8
 * Workshops : July 9 – July 10
-
+* Early registration ends June 26, 2020, 11:59 PM (EDT) with Regular at $125 and Student at $50
